@@ -1,6 +1,6 @@
 # 欢迎来到HFLS Wiki!
 
-这是一个由来自HFLS的学生自愿搭建的独立校园 Wiki。
+这是一个属于杭州外国语学校的独立校园 Wiki。
 
 2024年前由[DoraDmon](https://github.com/DoraDmon)维护，并托管在 Github Pages 上。
 
