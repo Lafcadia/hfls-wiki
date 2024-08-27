@@ -1,15 +1,15 @@
 # Project information
 site_name: 'HFLS Wiki'
 site_description: 'A small wiki for HFLS'
-site_author: 'DoraDmon'
-site_url: 'https://hflswiki.github.io/hfls-wiki'
+site_author: 'DoraDmon (After 2024: Lafcadia)'
+site_url: 'https://wiki.hfls.top'
 
 # Repository
 repo_name: 'HFLSWiki/hfls-wiki'
-repo_url: 'https://github.com/HFLSWiki/hfls-wiki'
+repo_url: 'https://github.com/Lafcadia/hfls-wiki'
 
 # Copyright
-copyright: 'Copyright &copy; 2019 HFLSWiki'
+copyright: 'Copyright &copy; 2019-2024 HFLSWiki; 2024- Team OblivionOcean'
 
 # Configuration
 theme:
@@ -25,14 +25,6 @@ theme:
 # Customization
 extra:
   manifest: 'manifest.webmanifest'
-  social:
-    - type: 'github'
-      link: 'https://github.com/HFLSWiki'
-
-# Google Analytics
-google_analytics:
-  - 'UA-XXXXXXXX-X'
-  - 'auto'
 
 # Extensions
 markdown_extensions:
