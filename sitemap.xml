@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>https://hflswiki.github.io/hfls-wiki/</loc>
-     <lastmod>2019-10-13</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wiki.hfls.top/</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://hflswiki.github.io/hfls-wiki/about/situation/</loc>
-     <lastmod>2019-10-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://hflswiki.github.io/hfls-wiki/about/QwQ/</loc>
-     <lastmod>2019-10-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://hflswiki.github.io/hfls-wiki/about/wawawa/</loc>
-     <lastmod>2019-10-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://hflswiki.github.io/hfls-wiki/about/wawawawa/</loc>
-     <lastmod>2019-10-13</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>https://hflswiki.github.io/hfls-wiki/about/QwQwQ/</loc>
-     <lastmod>2019-10-13</lastmod>
-     <changefreq>daily</changefreq>
+         <loc>https://wiki.hfls.top/about/</loc>
+         <lastmod>2024-08-27</lastmod>
+         <changefreq>daily</changefreq>
     </url>
 </urlset>
